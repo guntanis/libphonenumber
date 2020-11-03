@@ -13,6 +13,7 @@
 # limitations under the License.
 
 5063|Kolbi ICE
+5064600|Ring.cr
 50650|Kolbi ICE
 50657|Kolbi ICE
 5066|Movistar
